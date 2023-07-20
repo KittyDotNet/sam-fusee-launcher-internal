@@ -87,7 +87,7 @@ This is hacky and may not work forever, but somehow it works:
 * Boot into horizon, leave it at the home screen
 * Put the trinket into bootloader mode by pulling the Trinket `RST` line to ground
   twice quickly.
-* Plug the switch into your computer, the LED should turn green and you should see
+* Plug the switch into your computer, then tap the switch power button. the trinket LED should turn green and you should see
   the Trinket as a mass storage device
 * Flash the Trinket with the Arduino IDE as normal.
 
