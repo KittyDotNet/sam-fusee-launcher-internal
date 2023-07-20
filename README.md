@@ -4,6 +4,8 @@
 
 Fusee Launcher for the adafruit trinket m0 board. Based on [sam fusee launcher](https://github.com/atlas44/sam-fusee-launcher) by atlas44 and the [fork by noemu](https://github.com/noemu/sam-fusee-launcher).
 
+Updated to Hekate 6.0.5
+
 Build and tested with Arduino SDK.
 
 I created this fork to create an **internal** Trinket M0 mod. This chip will
